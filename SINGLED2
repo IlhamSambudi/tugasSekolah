@@ -1,0 +1,15 @@
+public class SINGLED2 {
+
+    public static void main(String[] args) {
+        int[] HARI;
+        HARI = new int[7];
+        HARI[0] = 31;
+        HARI[1] = 28;
+        HARI[2] = 31;
+        HARI[3] = 30;
+        HARI[4] = 31;
+        HARI[5] = 30;
+        HARI[6] = 31;
+        System.out.println("Bulan Januari memiliki " + HARI[2] + " hari. ");
+    }
+}
